@@ -1,0 +1,7 @@
+{
+  "address" : "0xe935e333190CDe0661092fF97072cC05Cca79da5",
+  "pool" : "http://mike.rs:8080",
+  "cuda" : [
+    { "device": 0, "enabled": true, "intensity": 28 }
+  ]
+}
